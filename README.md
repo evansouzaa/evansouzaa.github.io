@@ -2,11 +2,11 @@
 
 <div>
 
-<a  href="https://api.whatsapp.com/send?phone=5524988441050&text=Ol%C3%A1,%20Encontrei%20seu%20contato%20no%20GitHub!" ><img  align="center"  alt="aplicatito de mensagem whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a  href="https://api.whatsapp.com/send?phone=5524988441050&text=Ol%C3%A1,%20Encontrei%20seu%20contato%20no%20GitHub!" taget="_blank" ><img  align="center"  alt="aplicatito de mensagem whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
-<a  href="https://www.linkedin.com/in/joaovolpatocode/"><img  align="center"  alt="rede social de trabalhadores"  height="30"  width="110"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a  href="https://www.linkedin.com/in/evansouzaa/" taget="_blank"><img  align="center"  alt="rede social de trabalhadores"  height="30"  width="110"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-<a  href="mailto:evandro.souza.pereira@gmail.com"><img  align="center"  height="30"  alt="correio eletronico"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a  href="mailto:evandro.souza.pereira@gmail.com" taget="_blank"><img  align="center"  height="30"  alt="correio eletronico"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </div>
 
