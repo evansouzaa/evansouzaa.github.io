@@ -1,7 +1,3 @@
-#Olá! :wave:
-
-<br/>
-
 <div>
 
 ## Me chamo Evandro!
