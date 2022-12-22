@@ -40,8 +40,6 @@ Linguagens
 
 <img  alt="c"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-<img  alt="vercel"  src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
 ___
 Banco de Dados
 
