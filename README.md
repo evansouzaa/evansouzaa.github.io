@@ -74,8 +74,8 @@ Frameworks
 <img  alt="nginx"  src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 
 ___
-
 Outros
+
 <img  alt="linuxmint"  src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
 
 <img  alt="arduino"  src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
