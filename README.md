@@ -1,5 +1,21 @@
 #Olá! :wave:
 
+<br/>
+
+<div>
+
+## Me chamo Evandro!
+
+Oi :smile_cat:
+#### Sou amante de tecnologia, o que mais me encanta é ver como hoje somos um mundo totalmente dependetes desta bruxaria.
+#### Gosto desde arduinos programados em c á apps de inteligencia artificial que criam imagens. :hear_no_evil:
+#### Sempre muito curioso, consumindo e bolando alguma api nova. :bulb:
+#### Estudando bastante Javascript e todo seu ecossistema.
+#### Paixão é automação de processos.
+#### Atualmente trabalho com tecnologia na área de Redes de Computadores e Telecomunicações.
+</div>
+
+___
 <div>
 
 <a  href="https://api.whatsapp.com/send?phone=5524988441050&text=Ol%C3%A1,%20Encontrei%20seu%20contato%20no%20GitHub!" taget="_blank" ><img  align="center"  alt="aplicatito de mensagem whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -8,21 +24,6 @@
 
 <a  href="mailto:evandro.souza.pereira@gmail.com" taget="_blank"><img  align="center"  height="30"  alt="correio eletronico"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
-</div>
-
-<br/>
-
-<div>
-
-## Me chamo Evandro!
-
-Oi :smile_cat:
-#### Acredito que sou amante de tecnologia, o que mais me encanta é ver como hoje somos um mundo totalmente dependetes desta bruxaria.
-####  Gosto desde arduinos programados em c á apps de inteligencia artificial que criam imagens. :hear_no_evil:
-####  Sempre muito curioso, consumindo e bolando alguma api nova. :bulb:
-#### Estudando bastante Javascript e todo seu ecossistema.
-#### Paixão é automação de processos.
-#### Atualmente trabalho com tecnologia na área de Redes de Computadores e Telecomunicações.
 </div>
 
 ___
